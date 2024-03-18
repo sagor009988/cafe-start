@@ -1,0 +1,44 @@
+[
+    
+    {
+        "id": 1, 
+        "title": "The Future of Technology", 
+        "authorName": "Bella Rose",
+        "authorImage": "https://i.ibb.co/DpcghdZ/member2.png",
+        "publishDate": "2024-03-18",
+        "hashtags": ["technology", "programming"],
+        "readingTime": "5 minutes",
+        "image": "https://i.ibb.co/RNznb5n/banner2.png"
+      },
+      {
+        "id": 2,
+        "title": "Travel Photography Tips for Beginners",
+        "authorName": "Jane Smith",
+        "authorImage": "https://i.ibb.co/y8tzvpx/member3.png",
+        "publishDate": "2024-03-15",
+        "hashtags": ["travel", "photography"],
+        "readingTime": "8 minutes",
+        "image": "https://i.ibb.co/2gSVr7m/banner4.png"
+      },
+      {
+        "id": 3,
+        "title": "Easy and Delicious Recipes for Weeknight Dinners",
+        "authorName": "Michael Chang",
+        "authorImage": "https://i.ibb.co/FbpTYqz/member4.png",
+        "publishDate": "2024-03-12",
+        "hashtags": ["cooking", "recipes"],
+        "readingTime": "10 minutes",
+        "image": "https://i.ibb.co/kGLKrpL/banner1.png"
+      },
+      {
+        "id": 4,
+        "title": "Spring Fashion Trends You Need to Know",
+        "authorName": "Sarah Lee",
+        "authorImage":"https://i.ibb.co/JdsXzR0/member1.png",
+        "publishDate": "2024-03-17",
+        "hashtags": ["fashion", "beauty"],
+        "readingTime": "7 minutes",
+        "image": "https://i.ibb.co/VxRPy7Q/banner3.png"
+      }
+  ]
+  
